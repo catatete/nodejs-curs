@@ -18,7 +18,7 @@ function callAsync(f, timeout){
 
 
 callAsync(function(){
-    console.log("Apel callback din calLAsync")
+    console.log("Apel callback din callAsync")
 }, 1000);
 
 
